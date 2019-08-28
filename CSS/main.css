@@ -466,7 +466,7 @@ html.is-animating .transition-fade {
 	height: 50%;
 	display: block;}
 
-@media (max-width: 1015px) {
+@media (max-width: 200px) {
 	.navbar {
 		padding-right: 20px;
 		padding-left: 20px;
